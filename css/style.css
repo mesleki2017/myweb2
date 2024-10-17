@@ -14,6 +14,7 @@ body {
 	font-weight:300;
 	line-height:1.6em;
 	color:#656565;
+	margin-top: 5px;
 }
 
 a:active {
@@ -68,6 +69,10 @@ img.img-polaroid {
  
 header .navbar {
     margin-bottom: 0;
+	border-style: dashed;
+	align-content: center;
+	align-items: center;
+	text-align: center;
 }
 
 .navbar-default {
@@ -1604,7 +1609,7 @@ width: 89%;
   float: left; 
 }
 .contact .submit:hover {
-  background: #81C402;
+  background: #2207ed;
 }
 
 .done {
@@ -1664,11 +1669,11 @@ width: 89%;
   background: #F58A2E;
 }
 .navbar-default .navbar-toggle .icon-bar {
-background-color: #FFF;
+background-color: #2deb0c;
 border-radius: 0;
 }
 .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
-  color: #FFFFFF;
+  color: #1be36e;
   background-color: transparent;
 }
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
@@ -1695,6 +1700,8 @@ margin-top: 15px;
 	.navbar-header {
 		margin-top: 20px;
 		border-bottom: none;
+	
+		
 	}
 	
 	.navbar-nav {
