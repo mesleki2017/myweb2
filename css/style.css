@@ -69,7 +69,7 @@ img.img-polaroid {
  
 header .navbar {
     margin-bottom: 0;
-	border-style: dashed;
+	
 	align-content: center;
 	align-items: center;
 	text-align: center;
@@ -165,7 +165,7 @@ header .navbar {
 
 header .navbar-nav > li  {
     padding-bottom: 12px;
-    padding-top: 12px;
+    padding-top: 18px;
 }
 
 header  .navbar-nav > li > a {
